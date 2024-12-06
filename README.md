@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a technology enthusiast with a deep passion for programming, especially in web development. My programming journey began in high school, and I later completed the Hacktiv8 bootcamp as a full-stack web developer. I'm continuously learning new technologies to enhance my skills and stay updated with the latest trends in web development. <br><br>My goal is to build impactful digital solutions and pursue a career that aligns with my lifelong passion for technology. I thrive on solving complex problems and bringing ideas to life through clean, efficient code.
+I'm a technology enthusiast with a deep passion for programming, especially in web development. My programming journey began in high school, and I later completed the Hacktiv8 bootcamp as a full-stack Javascript developer. I'm continuously learning new technologies to enhance my skills and stay updated with the latest trends in web development. <br><br>My goal is to build impactful digital solutions and pursue a career that aligns with my lifelong passion for technology. I thrive on solving complex problems and bringing ideas to life through clean, efficient code.
 
 
 ## 🌐 Socials:

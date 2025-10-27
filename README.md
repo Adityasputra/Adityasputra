@@ -3,7 +3,7 @@
 I'm a passionate developer who loves exploring and learning new technologies. My journey in tech started with web development, and I'm continuously expanding my knowledge in various fields, including AI and software engineering.  
 
 ### What I'm Learning  
-- Full-stack web development (JavaScript, React, Node.js)  
+- Full-stack web development
 - Artificial Intelligence & Machine Learning  
 - Software architecture & best practices  
 
